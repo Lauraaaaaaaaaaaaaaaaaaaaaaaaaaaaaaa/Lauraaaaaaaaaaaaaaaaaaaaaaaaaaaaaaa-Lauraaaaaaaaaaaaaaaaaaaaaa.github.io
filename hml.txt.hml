@@ -1,0 +1,10 @@
+<head>							<!-- Ouverture de l'en-tête -->
+	<meta charset="utf-8">		<!-- Pour les accents -->
+	<meta name="author" lang="fr" content="Identité à personnaliser" />
+	
+	<title>Titre de la page - Lisible sur l'onglet du navigateur</title>
+	
+	<!-- Mise en page générale - Feuille de style CSS -->
+	<link rel="stylesheet" href="http://portail.lyc-la-martiniere-diderot.ac-lyon.fr/srv/Lien vers la feuille de style">
+
+</head>							<!-- Fermeture de l'en-tête -->
